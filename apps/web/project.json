@@ -107,7 +107,6 @@
           "cypressConfig": "apps/web/cypress.config.ts",
           "testingType": "component",
           "devServerTarget": "web:build",
-          "tsConfig": "apps/web/tsconfig.cy.json",
           "skipServe": true
         }
       }
